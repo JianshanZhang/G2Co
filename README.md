@@ -1,1 +1,3 @@
 # G2Co
+The code will be published after the article is received...
+G2co will be an upgraded version of MoGaze
